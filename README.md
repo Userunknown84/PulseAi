@@ -11,6 +11,9 @@ Users can upload a local video or provide a YouTube / Google Drive link, and the
 
 ->Allows preview & download of reels
 
+## 🎥 Demo
+👉 [Watch Demo Video](https://drive.google.com/file/d/1O7YofQcaeJJz5Wc2lU32hclH_aZEz_xI/view?usp=drive_link)
+
 🚀 Features
 
 -> Upload local video (MP4 / MOV / MKV)
@@ -51,14 +54,16 @@ Reel Generation:
 
 ## 🛠️ Tech Stack
 
-Component	            Technology
-Frontend	            Streamlit
-Speech-to-Text	        OpenAI Whisper
-AI Analysis	Google      Gemini (Flash)
-Video Processing	    FFmpeg
-Video Handling	        MoviePy
-Link Download	        yt-dlp
-Language	            Python
+| Component        | Technology            |
+| ---------------- | --------------------- |
+| Frontend         | Streamlit             |
+| Speech-to-Text   | OpenAI Whisper        |
+| AI Analysis      | Google Gemini (Flash) |
+| Video Processing | FFmpeg                |
+| Video Handling   | MoviePy               |
+| Link Download    | yt-dlp                |
+| Language         | Python                |
+
 
 ## 🔑 Environment Variables
 
